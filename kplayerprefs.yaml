@@ -3,9 +3,9 @@ strings:
   SaveFilenameKey/: C:\Users\Okari\Documents\Klei\OxygenNotIncluded\save_files/The Regrettable Utopia.sav
 ints:
   SESSION_ID: 43
-  ResolutionWidth: 1920
-  ResolutionHeight: 1080
-  RefreshRate: 75
+  ResolutionWidth: 3440
+  ResolutionHeight: 1440
+  RefreshRate: 120
   FullScreen: 1
   PatchNotesVersion: 9
   UseWorldSeedKey: 0
