@@ -1,8 +1,8 @@
 strings:
   INSTALL_TIMESTAMP: 636998975533976356
-  SaveFilenameKey/: C:\Users\Okari\Documents\Klei\OxygenNotIncluded\save_files/The Regrettable Utopia.sav
+  SaveFilenameKey/: C:\Users\Okari\Documents\Klei\OxygenNotIncluded\save_files/Uncomfortable Paradise.sav
 ints:
-  SESSION_ID: 43
+  SESSION_ID: 89
   ResolutionWidth: 3440
   ResolutionHeight: 1440
   RefreshRate: 120
@@ -13,8 +13,8 @@ ints:
   LayoutSeedKey: 1543015624
   TerrainSeedKey: 1543015624
   NoiseSeedKey: 1543015624
-  GAME_ID: 12
-  NextUniqueID: 1695318
+  GAME_ID: 16
+  NextUniqueID: 2496352
   TemperatureUnit: 1
   HideTutorial_CheckState: 1
   HideTutorial_TM_Welcome: 1
@@ -24,6 +24,7 @@ ints:
   HideTutorial_TM_FetchingWater: 1
   HideTutorial_TM_DiseaseCooking: 1
   HideTutorial_TM_Locomotion: 1
+  HideTutorial_TM_Basics: 1
 floats:
   Volume_SFX: 1
   Volume_Music: 1

@@ -1,4 +1,77 @@
 {
   "version": 1,
-  "mods": []
+  "mods": [
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1838445101",
+        "version": 1566676835,
+        "title": "DGSM - Duplicants Generation Settings Manager"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835394161",
+        "version": 1566804303,
+        "title": "Build Over Plants"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1824410623",
+        "version": 1565880462,
+        "title": "Canister Fillers"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1836997281",
+        "version": 1566626063,
+        "title": "Claustrophobia - Stuck Duplicant Alert"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1742045344",
+        "version": 1557944207,
+        "title": "Player Controlled Switch"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835851890",
+        "version": 1565904051,
+        "title": "Drag Tool Area"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    }
+  ]
 }
