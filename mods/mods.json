@@ -5,8 +5,8 @@
       "label": {
         "distribution_platform": 1,
         "id": "1838445101",
-        "version": 1566676835,
-        "title": "DGSM - Duplicants Generation Settings Manager"
+        "version": 1568911125,
+        "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony 👾"
       },
       "status": 1,
       "enabled": true,
@@ -41,7 +41,7 @@
       "label": {
         "distribution_platform": 1,
         "id": "1836997281",
-        "version": 1566626063,
+        "version": 1571287103,
         "title": "Claustrophobia - Stuck Duplicant Alert"
       },
       "status": 1,
@@ -67,6 +67,30 @@
         "id": "1835851890",
         "version": 1565904051,
         "title": "Drag Tool Area"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1845579729",
+        "version": 1567630262,
+        "title": "Wall Pumps and Vents"
+      },
+      "status": 1,
+      "enabled": false,
+      "crash_count": 3,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1848884654",
+        "version": 1571151410,
+        "title": "Pliers"
       },
       "status": 1,
       "enabled": true,

@@ -1,0 +1,7 @@
+{
+  "PLIERS.NAME": "Pliers",
+  "PLIERS.TOOLTIP": "Disconnect utility networks {0}",
+  "PLIERS.TOOLTIP.TITLE": "PLIERS",
+  "PLIERS.ACTION.DRAG": "DRAG",
+  "PLIERS.ACTION.BACK": "BACK"
+}

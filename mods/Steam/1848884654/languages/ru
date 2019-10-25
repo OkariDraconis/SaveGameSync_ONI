@@ -1,0 +1,7 @@
+{
+  "PLIERS.NAME": "Кусачки",
+  "PLIERS.TOOLTIP": "Кусачки {0}",
+  "PLIERS.TOOLTIP.TITLE": "КУСАЧКИ",
+  "PLIERS.ACTION.DRAG": "ВЫДЕЛИТЬ",
+  "PLIERS.ACTION.BACK": "НАЗАД"
+}
