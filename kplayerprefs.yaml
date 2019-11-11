@@ -1,11 +1,11 @@
 strings:
   INSTALL_TIMESTAMP: 636998975533976356
-  SaveFilenameKey/: C:\Users\Okari\Documents\Klei\OxygenNotIncluded\save_files/Data Committee.sav
+  SaveFilenameKey/: C:\Users\Okari\Documents\Klei\OxygenNotIncluded\save_files/The Lamentable Sewer.sav
 ints:
-  SESSION_ID: 164
+  SESSION_ID: 230
   ResolutionWidth: 3440
   ResolutionHeight: 1440
-  RefreshRate: 120
+  RefreshRate: 60
   FullScreen: 1
   PatchNotesVersion: 9
   UseWorldSeedKey: 0
@@ -13,8 +13,8 @@ ints:
   LayoutSeedKey: 1543015624
   TerrainSeedKey: 1543015624
   NoiseSeedKey: 1543015624
-  GAME_ID: 22
-  NextUniqueID: 3235195
+  GAME_ID: 23
+  NextUniqueID: 4953363
   TemperatureUnit: 1
   HideTutorial_CheckState: 1
   HideTutorial_TM_Welcome: 1
@@ -26,9 +26,12 @@ ints:
   HideTutorial_TM_Locomotion: 1
   HideTutorial_TM_Basics: 1
   HideTutorial_TM_Digging: 1
+  AlwaysPlayAutomation: 1
+  MuteOnFocusLost: 0
+  HideTutorial_TM_Morale: 1
 floats:
   Volume_SFX: 1
   Volume_Music: 1
   Volume_Ambience: 1
-  Volume_Master: 1
+  Volume_Master: 0.72693944
   Volume_UI: 1
