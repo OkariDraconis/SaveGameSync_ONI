@@ -10,7 +10,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -22,7 +22,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -34,7 +34,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -46,7 +46,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -58,7 +58,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -70,7 +70,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -94,7 +94,19 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1902507824",
+        "version": 1572449102,
+        "title": "Advanced Storage - LU"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 1,
       "reinstall_path": null
     }
   ]
