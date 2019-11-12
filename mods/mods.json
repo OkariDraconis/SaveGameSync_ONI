@@ -10,7 +10,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     },
     {
@@ -22,7 +22,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     },
     {
@@ -34,19 +34,19 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     },
     {
       "label": {
         "distribution_platform": 1,
         "id": "1836997281",
-        "version": 1571287103,
+        "version": 1573537764,
         "title": "Claustrophobia - Stuck Duplicant Alert"
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     },
     {
@@ -58,7 +58,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     },
     {
@@ -70,7 +70,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     },
     {
@@ -94,7 +94,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     },
     {
@@ -106,7 +106,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 2,
       "reinstall_path": null
     }
   ]
