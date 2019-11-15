@@ -10,7 +10,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -22,7 +22,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -34,7 +34,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -46,7 +46,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -58,7 +58,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -70,7 +70,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -82,7 +82,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -94,7 +94,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
       "reinstall_path": null
     },
     {
@@ -106,7 +106,55 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 0,
+      "crash_count": 1,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1742045344",
+        "version": 1557944207,
+        "title": "Player Controlled Switch"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 1,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835394161",
+        "version": 1566804303,
+        "title": "Build Over Plants"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 1,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835851890",
+        "version": 1565904051,
+        "title": "Drag Tool Area"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 1,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1838445101",
+        "version": 1568911125,
+        "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony 👾"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 1,
       "reinstall_path": null
     }
   ]
