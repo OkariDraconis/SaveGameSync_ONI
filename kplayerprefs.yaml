@@ -2,7 +2,7 @@ strings:
   INSTALL_TIMESTAMP: 636998975533976356
   SaveFilenameKey/: C:\Users\Okari\Documents\Klei\OxygenNotIncluded\save_files/The Lamentable Sewer.sav
 ints:
-  SESSION_ID: 263
+  SESSION_ID: 275
   ResolutionWidth: 3440
   ResolutionHeight: 1440
   RefreshRate: 60
@@ -14,7 +14,7 @@ ints:
   TerrainSeedKey: 1543015624
   NoiseSeedKey: 1543015624
   GAME_ID: 23
-  NextUniqueID: 5304754
+  NextUniqueID: 5440773
   TemperatureUnit: 1
   HideTutorial_CheckState: 1
   HideTutorial_TM_Welcome: 1

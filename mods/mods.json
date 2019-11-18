@@ -10,19 +10,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
-      "reinstall_path": null
-    },
-    {
-      "label": {
-        "distribution_platform": 1,
-        "id": "1822175925",
-        "version": 1567687561,
-        "title": "Faster Jetpacks"
-      },
-      "status": 1,
-      "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -34,7 +22,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -46,7 +34,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -58,7 +46,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -70,7 +58,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -82,7 +70,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -94,19 +82,19 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
       "label": {
         "distribution_platform": 1,
         "id": "1824410623",
-        "version": 1573648842,
+        "version": 1574041678,
         "title": "Canister Fillers"
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -118,7 +106,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -130,7 +118,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -142,7 +130,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -154,7 +142,31 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 1,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1822175925",
+        "version": 1567687561,
+        "title": "Faster Jetpacks"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1869114764",
+        "version": 1569821612,
+        "title": "Radiates Heat In Space"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
       "reinstall_path": null
     }
   ]
