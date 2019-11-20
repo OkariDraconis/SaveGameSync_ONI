@@ -10,7 +10,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -22,7 +22,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -33,8 +33,8 @@
         "title": "Piped output"
       },
       "status": 1,
-      "enabled": false,
-      "crash_count": 3,
+      "enabled": true,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -46,7 +46,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -58,7 +58,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -70,7 +70,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -82,7 +82,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -94,7 +94,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -106,7 +106,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -118,7 +118,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -130,7 +130,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -142,7 +142,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -154,7 +154,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     },
     {
@@ -166,7 +166,7 @@
       },
       "status": 1,
       "enabled": true,
-      "crash_count": 3,
+      "crash_count": 0,
       "reinstall_path": null
     }
   ]
